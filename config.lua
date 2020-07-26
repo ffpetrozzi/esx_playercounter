@@ -1,7 +1,7 @@
 Config        = {}
 Config.Locale = 'en'
 
-Config.Color = 'Red'
+Config.Color = 'White'
 Config.MaxPlayers = '64'
 
 
